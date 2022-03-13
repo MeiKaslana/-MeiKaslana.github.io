@@ -7,5 +7,6 @@
 
 [ios逆向防护](./reverse-defendence.md)
 
+[xcodebuild过程理解](./xcodebuild过程理解.md)
 
 
